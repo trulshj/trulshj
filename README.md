@@ -2,6 +2,8 @@
 
 Jeg er en kar fra Bergen som har forvillet seg helt opp til Trondheim, hvor jeg trives ekstremt godt! :bug:
 
+Favorittdrikken min er kakao ☕
+
 Litt ting jeg driver med:
 
 - Studerer Informatikk på NTNU
