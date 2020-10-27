@@ -10,4 +10,4 @@ Litt ting jeg driver med:
 - Jobber med Internett hos Telia
 - Er funksjonær i [IT-Komiteen](https://itk.samfundet.no/) på [Studentersamfundet i Trondheim](https://samfundet.no/)
 
-<a href="https://twitter.com/henrik_truls?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @henrik_truls</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Gjennom skolen har jeg blitt veldig glad i blandt annet JavaScript, React, og Python :snake: men jeg prøver alltid å lære meg nye ting!
