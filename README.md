@@ -1,4 +1,4 @@
-# Hei hå, Truls Henrik heter jeg! :wave:
+![Heisann!](./hilsen.svg)
 
 Jeg er en kar fra Bergen som har forvillet seg helt opp til Trondheim, hvor jeg trives ekstremt godt! :bug:
 

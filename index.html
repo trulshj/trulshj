@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Truls SVG</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap"
+            rel="stylesheet"
+        />
+    </head>
+    <body>
+        <svg
+            width="600"
+            height="250"
+            viewBox="0 0 170 50"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+        >
+            <g id="frame" clip-path="url(#clip0)">
+                <text
+                    id="hello"
+                    fill="black"
+                    xml:space="preserve"
+                    style="white-space: pre"
+                    letter-spacing="0em"
+                >
+                    <tspan x="55" y="15.7727">Heisann!</tspan>
+                </text>
+                <text
+                    id="wave"
+                    fill="black"
+                    xml:space="preserve"
+                    style="white-space: pre"
+                    letter-spacing="0em"
+                >
+                    <tspan x="35" y="17">&#x1f44b;</tspan>
+                </text>
+                <text
+                    id="smile"
+                    fill="black"
+                    xml:space="preserve"
+                    style="white-space: pre"
+                    letter-spacing="0em"
+                >
+                    <tspan x="110" y="17">&#x1f60a;</tspan>
+                </text>
+                <text
+                    id="name"
+                    fill="black"
+                    xml:space="preserve"
+                    style="white-space: pre"
+                    letter-spacing="0em"
+                >
+                    <tspan x="3" y="30.7727">Truls Henrik heter jeg</tspan>
+                </text>
+                <text
+                    id="cool"
+                    fill="black"
+                    xml:space="preserve"
+                    style="white-space: pre"
+                    letter-spacing="0em"
+                >
+                    <tspan x="5" y="45.7727">Kult at du stikker innom!</tspan>
+                </text>
+            </g>
+            <defs>
+                <clipPath id="clip0">
+                    <rect width="170" height="50" fill="white" />
+                </clipPath>
+            </defs>
+            <style>
+                svg text {
+                    font-size: 11px;
+                    font-family: 'Roboto Mono', monospace;
+                    opacity: 0;
+                }
+    
+                #frame text {
+                    animation: fadeInUp 1s ease forwards;
+                    animation-delay: calc(var(--order) * 1s);
+                }
+    
+                #wave {
+                    --order: 1;
+                    transform-origin: 30% 50%;
+                    animation: fadeInUp 1s calc(var(--order) * 1s) ease forwards,
+                        waveHand 1.5s calc(var(--order) * 1s + 1s) ease-in-out forwards  !important;
+                }
+                #hello {
+                    --order: 2.5;
+                }
+                #name {
+                    --order: 4;
+                }
+                #smile {
+                    --order: 2.5;
+                }
+                #cool {
+                    --order: 6;
+                }
+    
+                @keyframes fadeInUp {
+                    from {
+                        opacity: 0;
+                        transform: translateY(20%);
+                    }
+                    to {
+                        opacity: 1;
+                        transform: translateY(0);
+                    }
+                }
+    
+                @keyframes waveHand {
+                    0% {
+                        transform: rotate(0deg);
+                    }
+                    20% {
+                        transform: rotate(20deg);
+                    }
+                    40% {
+                        transform: rotate(-20deg);
+                    }
+                    60% {
+                        transform: rotate(20deg);
+                    }
+                    80% {
+                        transform: rotate(-20deg);
+                    }
+                    100% {
+                        transform: rotate(0deg);
+                    }
+                }
+            </style>
+        </svg>
+
+        
+    </body>
+</html>
