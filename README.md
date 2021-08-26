@@ -1,4 +1,4 @@
-![Heisann!](./hilsen.svg)
+![Heisann!](https://raw.githubusercontent.com/trulshj/trulshj/master/hilsen.svg)
 
 Jeg er en kar fra Bergen som har forvillet seg helt opp til Trondheim, hvor jeg trives ekstremt godt! :bug:
 
