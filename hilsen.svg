@@ -27,6 +27,12 @@
             font-family: 'Roboto Mono', monospace;
             opacity: 0;
         }
+        
+        @media (prefers-color-scheme: dark) {
+            svg text {
+                color: white;
+            }
+        }
 
         #frame text {
             animation: fadeInUp 1s ease forwards;
