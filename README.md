@@ -7,12 +7,11 @@ Favorittdrikken min er kakao :coffee: :chocolate_bar:
 Litt ting jeg driver med:
 
 - Studerer Informatikk på NTNU
-- Jobber som utvikler hos Visma Real Estate :house:
+- Jobber som konsulent hos [Variant](https://www.variant.no/)
 - Er funksjonær i [IT-Komiteen](https://itk.samfundet.no/) på [Studentersamfundet i Trondheim](https://samfundet.no/)
 
 💻 Tech:
 
 - Typescript
-- Python
 - C#
-- C++
+- Rust
