@@ -1,55 +1,19 @@
-<svg
-  width="600"
-  height="250"
-  viewBox="0 0 170 50"
-  fill="none"
-  style="background-color: white; border-radius: 16px"
-  xmlns="http://www.w3.org/2000/svg"
->
+<svg width="600" height="250" viewBox="0 0 170 50" fill="none" style="background-color: white; border-radius: 16px"
+  xmlns="http://www.w3.org/2000/svg">
   <g id="frame" clip-path="url(#clip0)">
-    <text
-      id="hello"
-      fill="black"
-      xml:space="preserve"
-      style="white-space: pre"
-      letter-spacing="0em"
-    >
+    <text id="hello" fill="black" xml:space="preserve" style="white-space: pre" letter-spacing="0em">
       <tspan x="55" y="15.7727">Heisann!</tspan>
     </text>
-    <text
-      id="wave"
-      fill="black"
-      xml:space="preserve"
-      style="white-space: pre"
-      letter-spacing="0em"
-    >
+    <text id="wave" fill="black" xml:space="preserve" style="white-space: pre" letter-spacing="0em">
       <tspan x="35" y="17">👋</tspan>
     </text>
-    <text
-      id="smile"
-      fill="black"
-      xml:space="preserve"
-      style="white-space: pre"
-      letter-spacing="0em"
-    >
+    <text id="smile" fill="black" xml:space="preserve" style="white-space: pre" letter-spacing="0em">
       <tspan x="110" y="17">😊</tspan>
     </text>
-    <text
-      id="name"
-      fill="black"
-      xml:space="preserve"
-      style="white-space: pre"
-      letter-spacing="0em"
-    >
+    <text id="name" fill="black" xml:space="preserve" style="white-space: pre" letter-spacing="0em">
       <tspan x="3" y="30.7727">Truls Henrik heter jeg</tspan>
     </text>
-    <text
-      id="cool"
-      fill="black"
-      xml:space="preserve"
-      style="white-space: pre"
-      letter-spacing="0em"
-    >
+    <text id="cool" fill="black" xml:space="preserve" style="white-space: pre" letter-spacing="0em">
       <tspan x="5" y="45.7727">Kult at du stikker innom!</tspan>
     </text>
   </g>
@@ -63,12 +27,11 @@
       font-size: 11px;
       font-family: "Roboto Mono", monospace;
       opacity: 0;
-      color: black;
     }
 
     @media (prefers-color-scheme: dark) {
       svg text {
-        color: white;
+        fill: white;
       }
     }
 
