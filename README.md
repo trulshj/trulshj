@@ -13,4 +13,4 @@ Litt ting jeg driver med:
 
 - Typescript
 - C#
-- Rust
+- [APL](https://xpqz.github.io/learnapl/intro.html#what-is-apl)
