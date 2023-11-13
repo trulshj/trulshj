@@ -4,13 +4,15 @@ Jeg er en kar fra Bergen som har forvillet seg helt opp til Trondheim, hvor jeg 
 
 Favorittdrikken min er kakao :coffee: :chocolate_bar:
 
-Litt ting jeg driver med:
+Hva jeg driver med:
 
 - Jobber som konsulent hos [Variant](https://www.variant.no/)
-- Er funksjonær i [IT-Komiteen](https://itk.samfundet.no/) på [Studentersamfundet i Trondheim](https://samfundet.no/)
 
 💻 Tech:
 
 - Typescript
 - C#
+- F#
 - [APL](https://xpqz.github.io/learnapl/intro.html#what-is-apl)
+
+<img src="/static/csharpfsharp.png" alt="F# ftw" width="100" />
