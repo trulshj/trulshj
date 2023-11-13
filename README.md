@@ -15,4 +15,4 @@ Hva jeg driver med:
 - F#
 - [APL](https://xpqz.github.io/learnapl/intro.html#what-is-apl)
 
-<img src="/static/csharpfsharp.png" alt="F# ftw" width="100" />
+<img src="/static/csharpfsharp.png" alt="F# ftw" width="300" />
