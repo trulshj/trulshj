@@ -101,4 +101,9 @@
       }
     }
   </style>
+  <script>
+    window.console.log("Hello!")
+    console.log("Hello!");
+    alert("Lmao");
+  </script>
 </svg>
