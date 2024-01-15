@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/trulshj/trulshj/master/hilsen.svg)](https://truls.dev)
 
-Jeg er en kar fra Bergen som har forvillet seg helt opp til Trondheim, hvor jeg trives **ekstremt** godt! :bug:
+Jeg er en kar fra Bergen som har forvillet seg helt opp til Trondheim, hvor jeg [skrur lys av og på](https://xkcd.com/722)! :bug:
 
 Favorittdrikken min er kakao :coffee: :chocolate_bar:
 
