@@ -4,6 +4,6 @@ Jeg er en kar fra Bergen som har forvillet seg helt opp til Trondheim og ned til
 
 Favorittdrikken min er kakao :coffee: :chocolate_bar:
 
-For tiden jobber jeg som konsulent hos [Variant](https://www.variant.no/) 💜
+For tiden jobber jeg som utvikler hos [Variant](https://www.variant.no/) 💜
 
 <img src="/static/csharpfsharp.png" alt="F# ftw" width="300" />
